@@ -1,0 +1,14 @@
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\bin\Debug\net9.0\ECommercePlatform.exe
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\bin\Debug\net9.0\ECommercePlatform.deps.json
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\bin\Debug\net9.0\ECommercePlatform.runtimeconfig.json
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\bin\Debug\net9.0\ECommercePlatform.dll
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\bin\Debug\net9.0\ECommercePlatform.pdb
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\obj\Debug\net9.0\ECommercePlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\obj\Debug\net9.0\ECommercePlatform.AssemblyInfoInputs.cache
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\obj\Debug\net9.0\ECommercePlatform.AssemblyInfo.cs
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\obj\Debug\net9.0\ECommercePlatform.csproj.CoreCompileInputs.cache
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\obj\Debug\net9.0\ECommercePlatform.dll
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\obj\Debug\net9.0\refint\ECommercePlatform.dll
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\obj\Debug\net9.0\ECommercePlatform.pdb
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\obj\Debug\net9.0\ECommercePlatform.genruntimeconfig.cache
+C:\Users\barma\Cognizant\Week1_DataStructuresandAlgorithms\ECommercePlatform\obj\Debug\net9.0\ref\ECommercePlatform.dll
